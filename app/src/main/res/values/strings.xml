@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="searchKeywordTextView">Show Categories</string>
+    <string name="goButton">Go</string>
+    <string name="textViewTitle"/>
+    <string name="textViewOutOf">out of</string>
+</resources>
